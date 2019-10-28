@@ -1,4 +1,7 @@
-// package com.hadoop;
+/*
+* author: zouzhitao
+*/
+
 
 import javafx.util.Pair;
 import org.apache.hadoop.conf.Configuration;
